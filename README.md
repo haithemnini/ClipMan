@@ -1,5 +1,5 @@
-# Process Files
-<p>Proce_Files is a tool to copy and more and delete all files of a particular folder to another folder file that has been changed afterwards.</p>
+# ClipMan
+<p>ClipMan is a tool to copy and more and delete all files of a particular folder to another folder file that has been changed afterwards.</p>
 
 <h2> Usage </h2>
 
